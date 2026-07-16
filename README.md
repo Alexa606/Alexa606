@@ -6,13 +6,20 @@
 
 ###
 
-<p data-importer="text" align="left">A little about me...<br>  B.S. in Computer Systems Engineering specializing in Cybersecurity.<br>  Experience as a Project Manager in software development, facilitating communication and the success of technical projects.<br>  While I love management and security, I spend a lot of my time writing code and optimizing systems.</p>
+<div data-importer="text" align="left">
+  <h4>A little about me...</h4>
+  <ul>
+    <li> <strong>B.S. in Computer Systems Engineering</strong> specializing in <strong>Cybersecurity</strong>.</li>
+    <li> Experience as a <strong>Project Manager</strong> in software development, facilitating communication and the success of technical projects.</li>
+    <li> While I love management and security, I spend a lot of my time writing code and optimizing systems.</li>
+  </ul>
+</div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Alexa606/Alexa606/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Alexa606/Alexa606/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexa606&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexa606&layout=compact&langs_count=5&theme=radical" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -75,9 +82,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexa606/Alexa606/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexa606/Alexa606/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alexa606/Alexa606/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexa606&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexa606&theme=radical">
+  <img alt="github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexa606&theme=radical">
 </picture>
 
 ###
